@@ -1,0 +1,14 @@
+{
+ "title": "Population",
+ "unit": "M",
+ "data": {
+  "Barishal": 9.1,
+  "Chattogram": 33.2,
+  "Dhaka": 44.2,
+  "Khulna": 17.4,
+  "Mymensingh": 12.2,
+  "Rajshahi": 20.4,
+  "Rangpur": 17.6,
+  "Sylhet": 11.0
+ }
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bd-map example</title>
+    <style>
+      body { margin: 0; font-family: system-ui, sans-serif; background: #f6f8fa; color: #1f2933; }
+      header { padding: 12px 20px; background: #1565c0; color: #fff; display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+      header h1 { font-size: 18px; margin: 0; }
+      header label { font-size: 13px; display: flex; gap: 6px; align-items: center; }
+      main { max-width: 1100px; margin: 0 auto; padding: 20px; display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); }
+      section { background: #fff; border-radius: 12px; box-shadow: 0 1px 4px rgba(0,0,0,.08); padding: 12px; }
+      section h2 { font-size: 15px; margin: 4px 8px 8px; }
+      pre { margin: 0; font-size: 12px; background: #f3f5f7; padding: 8px; border-radius: 8px; overflow: auto; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

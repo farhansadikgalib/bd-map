@@ -1,0 +1,113 @@
+{
+ "title": "Population",
+ "unit": "M",
+ "data": {
+  "Barishal": {
+   "value": 9.1,
+   "Barguna": 1.23,
+   "Barishal": 1.23,
+   "Bhola": 1.53,
+   "Jhalokati": 2.34,
+   "Patuakhali": 1.33,
+   "Pirojpur": 1.43
+  },
+  "Chattogram": {
+   "value": 33.2,
+   "Bandarban": 3.52,
+   "Brahmanbaria": 2.83,
+   "Chandpur": 3.52,
+   "Chattogram": 2.66,
+   "Cox's Bazar": 3.7,
+   "Cumilla": 2.13,
+   "Feni": 1.79,
+   "Khagrachhari": 3.7,
+   "Lakshmipur": 3.0,
+   "Noakhali": 4.04,
+   "Rangamati": 2.31
+  },
+  "Dhaka": {
+   "value": 44.2,
+   "Dhaka": 2.0,
+   "Faridpur": 1.78,
+   "Gazipur": {
+    "value": 4.14,
+    "Gazipur Sadar": 0.768,
+    "Kaliakair": {
+     "value": 0.819,
+     "Atabaha": 0.109,
+     "Boali": 0.109,
+     "Chapair": 0.045,
+     "Dhaljora": 0.082,
+     "Fulbaria": 0.088,
+     "Kaliakair Paurashava": 0.055,
+     "Madhyapara": 0.12,
+     "Mouchak": 0.039,
+     "Sreefaltali": 0.104,
+     "Sutrapur": 0.066
+    },
+    "Kaliganj": 0.718,
+    "Kapasia": 0.668,
+    "Sreepur": 1.171
+   },
+   "Gopalganj": 2.0,
+   "Kishoreganj": 3.07,
+   "Madaripur": 2.21,
+   "Manikganj": 5.0,
+   "Munshiganj": 4.14,
+   "Narayanganj": 4.36,
+   "Narsingdi": 4.57,
+   "Rajbari": 3.07,
+   "Shariatpur": 3.71,
+   "Tangail": 4.14
+  },
+  "Khulna": {
+   "value": 17.4,
+   "Bagerhat": 1.38,
+   "Chuadanga": 2.31,
+   "Jashore": 1.69,
+   "Jhenaidah": 2.31,
+   "Khulna": 1.38,
+   "Kushtia": 1.27,
+   "Magura": 0.76,
+   "Meherpur": 2.21,
+   "Narail": 1.9,
+   "Satkhira": 2.21
+  },
+  "Mymensingh": {
+   "value": 12.2,
+   "Jamalpur": 2.69,
+   "Mymensingh": 4.12,
+   "Netrokona": 2.22,
+   "Sherpur": 3.17
+  },
+  "Rajshahi": {
+   "value": 20.4,
+   "Bogura": 3.2,
+   "Chapai Nawabganj": 2.19,
+   "Joypurhat": 3.34,
+   "Naogaon": 2.77,
+   "Natore": 2.05,
+   "Pabna": 2.19,
+   "Rajshahi": 2.91,
+   "Sirajganj": 1.76
+  },
+  "Rangpur": {
+   "value": 17.6,
+   "Dinajpur": 2.15,
+   "Gaibandha": 2.01,
+   "Kurigram": 2.85,
+   "Lalmonirhat": 1.44,
+   "Nilphamari": 1.59,
+   "Panchagarh": 2.99,
+   "Rangpur": 3.27,
+   "Thakurgaon": 1.3
+  },
+  "Sylhet": {
+   "value": 11.0,
+   "Habiganj": 1.57,
+   "Moulvibazar": 1.95,
+   "Sunamganj": 3.08,
+   "Sylhet": 4.41
+  }
+ }
+}

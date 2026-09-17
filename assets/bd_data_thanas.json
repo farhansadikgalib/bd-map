@@ -1,0 +1,694 @@
+{
+ "title": "Population",
+ "unit": "M",
+ "data": {
+  "Barishal": {
+   "Barguna": {
+    "Amtali": 0.251,
+    "Bamna": 0.202,
+    "Barguna Sadar": 0.202,
+    "Betagi": 0.374,
+    "Patharghata": 0.202
+   },
+   "Barishal": {
+    "Agailjhara": 0.109,
+    "Babuganj": 0.123,
+    "Bakerganj": 0.159,
+    "Banari Para": 0.08,
+    "Barisal Sadar (Kotwali)": 0.152,
+    "Gaurnadi": 0.123,
+    "Hizla": 0.116,
+    "Mehendiganj": 0.102,
+    "Muladi": 0.102,
+    "Wazirpur": 0.166
+   },
+   "Bhola": {
+    "Bhola Sadar": 0.203,
+    "Burhanuddin": 0.132,
+    "Char Fasson": 0.288,
+    "Daulatkhan": 0.132,
+    "Lalmohan": 0.302,
+    "Manpura": 0.26,
+    "Tazumuddin": 0.217
+   },
+   "Jhalokati": {
+    "Jhalokati Sadar": 0.736,
+    "Kanthalia": 0.404,
+    "Nalchity": 0.626,
+    "Rajapur": 0.57
+   },
+   "Patuakhali": {
+    "Bauphal": 0.131,
+    "Dashmina": 0.156,
+    "Dumki": 0.245,
+    "Galachipa": 0.156,
+    "Kala Para": 0.27,
+    "Mirzaganj": 0.245,
+    "Patuakhali Sadar": 0.131
+   },
+   "Pirojpur": {
+    "Bhandaria": 0.189,
+    "Kawkhali": 0.174,
+    "Mathbaria": 0.16,
+    "Nazirpur": 0.231,
+    "Nesarabad (Swarupkati)": 0.203,
+    "Pirojpur Sadar": 0.174,
+    "Zianagar": 0.302
+   }
+  },
+  "Chattogram": {
+   "Bandarban": {
+    "Alikadam": 0.557,
+    "Bandarban Sadar": 0.413,
+    "Lama": 0.528,
+    "Naikhongchhari": 0.673,
+    "Rowangchhari": 0.499,
+    "Ruma": 0.297,
+    "Thanchi": 0.557
+   },
+   "Brahmanbaria": {
+    "Akhaura": 0.251,
+    "Ashuganj": 0.195,
+    "Banchharampur": 0.44,
+    "Bijoynagar": 0.365,
+    "Brahmanbaria Sadar": 0.44,
+    "Kasba": 0.289,
+    "Nabinagar": 0.138,
+    "Nasirnagar": 0.365,
+    "Sarail": 0.346
+   },
+   "Chandpur": {
+    "Chandpur Sadar": 0.507,
+    "Faridganj": 0.507,
+    "Haim Char": 0.401,
+    "Hajiganj": 0.365,
+    "Kachua": 0.259,
+    "Matlab Dakshin": 0.649,
+    "Matlab Uttar": 0.365,
+    "Shahrasti": 0.471
+   },
+   "Chattogram": {
+    "Anowara": 0.051,
+    "Bakalia": 0.157,
+    "Banshkhali": 0.129,
+    "Bayejid Bostami": 0.073,
+    "Boalkhali": 0.073,
+    "Chandanaish": 0.066,
+    "Chandgaon": 0.164,
+    "Chittagong Port": 0.101,
+    "Double Mooring": 0.101,
+    "Fatikchhari": 0.15,
+    "Halishahar": 0.129,
+    "Hathazari": 0.101,
+    "Khulshi": 0.157,
+    "Kotwali": 0.058,
+    "Lohagara": 0.058,
+    "Mirsharai": 0.129,
+    "Pahartali": 0.058,
+    "Panchlaish": 0.051,
+    "Patenga": 0.108,
+    "Patiya": 0.087,
+    "Rangunia": 0.094,
+    "Raozan": 0.108,
+    "Sandwip": 0.143,
+    "Satkania": 0.15,
+    "Sitakunda": 0.157
+   },
+   "Cox's Bazar": {
+    "Chakaria": 0.516,
+    "Cox's Bazar Sadar": 0.414,
+    "Kutubdia": 0.593,
+    "Maheshkhali": 0.287,
+    "Pekua": 0.593,
+    "Ramu": 0.287,
+    "Teknaf": 0.516,
+    "Ukhia": 0.491
+   },
+   "Cumilla": {
+    "Barura": 0.134,
+    "Brahman Para": 0.152,
+    "Burichang": 0.17,
+    "Chandina": 0.117,
+    "Chauddagram": 0.196,
+    "Comilla Adarsha Sadar": 0.17,
+    "Comilla Sadar Dakshin": 0.143,
+    "Daudkandi": 0.196,
+    "Debidwar": 0.073,
+    "Homna": 0.099,
+    "Laksam": 0.099,
+    "Manoharganj": 0.082,
+    "Meghna": 0.17,
+    "Muradnagar": 0.099,
+    "Nangalkot": 0.126,
+    "Titas": 0.108
+   },
+   "Feni": {
+    "Chhagalnaiya": 0.417,
+    "Daganbhuiyan": 0.417,
+    "Feni Sadar": 0.202,
+    "Fulgazi": 0.202,
+    "Parshuram": 0.274,
+    "Sonagazi": 0.274
+   },
+   "Khagrachhari": {
+    "Dighinala": 0.319,
+    "Khagrachhari Sadar": 0.505,
+    "Lakshmichhari": 0.226,
+    "Mahalchhari": 0.474,
+    "Manikchhari": 0.35,
+    "Matiranga": 0.381,
+    "Panchhari": 0.722,
+    "Ramgarh": 0.722
+   },
+   "Lakshmipur": {
+    "Kamalnagar": 0.514,
+    "Lakshmipur Sadar": 0.298,
+    "Ramganj": 0.622,
+    "Ramgati": 0.802,
+    "Roypur": 0.766
+   },
+   "Noakhali": {
+    "Begumganj": 0.305,
+    "Chatkhil": 0.245,
+    "Companiganj": 0.63,
+    "Hatiya": 0.364,
+    "Kabirhat": 0.69,
+    "Noakhali Sadar (Sudharam)": 0.69,
+    "Senbagh": 0.453,
+    "Sonaimuri": 0.453,
+    "Subarnachar": 0.216
+   },
+   "Rangamati": {
+    "Baghai Chhari": 0.181,
+    "Barkal": 0.277,
+    "Belai Chhari": 0.293,
+    "Jurai Chhari": 0.229,
+    "Kaptai": 0.213,
+    "Kawkhali (Betbunia)": 0.181,
+    "Langadu": 0.149,
+    "Naniarchar": 0.293,
+    "Rajasthali": 0.213,
+    "Rangamati Sadar": 0.277
+   }
+  },
+  "Dhaka": {
+   "Dhaka": {
+    "Adabor": 0.026,
+    "Badda": 0.056,
+    "Bangshal": 0.056,
+    "Biman Bandar": 0.048,
+    "Cantonment": 0.034,
+    "Chak Bazar": 0.059,
+    "Dakshinkhan": 0.059,
+    "Darus Salam": 0.053,
+    "Demra": 0.042,
+    "Dhamrai": 0.045,
+    "Dhanmondi": 0.042,
+    "Dohar": 0.056,
+    "Gendaria": 0.042,
+    "Gulshan": 0.028,
+    "Hazaribagh": 0.023,
+    "Jatrabari": 0.037,
+    "Kadamtali": 0.062,
+    "Kafrul": 0.056,
+    "Kalabagan": 0.048,
+    "Kamrangir Char": 0.039,
+    "Keraniganj": 0.048,
+    "Khilgaon": 0.045,
+    "Khilkhet": 0.064,
+    "Kotwali": 0.053,
+    "Lalbagh": 0.062,
+    "Mirpur": 0.034,
+    "Mohammadpur": 0.028,
+    "Motijheel": 0.037,
+    "Nawabganj": 0.023,
+    "New Market": 0.026,
+    "Pallabi": 0.042,
+    "Paltan": 0.042,
+    "Ramna": 0.059,
+    "Rampura": 0.045,
+    "Sabujbagh": 0.059,
+    "Savar": 0.051,
+    "Shah Ali": 0.056,
+    "Shahbagh": 0.028,
+    "Sher-e-bangla Nagar": 0.02,
+    "Shyampur": 0.026,
+    "Sutrapur": 0.062,
+    "Tejgaon": 0.048,
+    "Tejgaon Ind. Area": 0.028,
+    "Turag": 0.02,
+    "Uttar Khan": 0.037,
+    "Uttara": 0.042
+   },
+   "Faridpur": {
+    "Alfadanga": 0.177,
+    "Bhanga": 0.23,
+    "Boalmari": 0.124,
+    "Char Bhadrasan": 0.31,
+    "Faridpur Sadar": 0.137,
+    "Madhukhali": 0.19,
+    "Nagarkanda": 0.204,
+    "Sadarpur": 0.257,
+    "Saltha": 0.15
+   },
+   "Gazipur": {
+    "Gazipur Sadar": 0.768,
+    "Kaliakair": 0.819,
+    "Kaliganj": 0.718,
+    "Kapasia": 0.668,
+    "Sreepur": 1.171
+   },
+   "Gopalganj": {
+    "Gopalganj Sadar": 0.348,
+    "Kashiani": 0.32,
+    "Kotali Para": 0.405,
+    "Muksudpur": 0.263,
+    "Tungi Para": 0.66
+   },
+   "Kishoreganj": {
+    "Austagram": 0.31,
+    "Bajitpur": 0.101,
+    "Bhairab": 0.115,
+    "Hossainpur": 0.296,
+    "Itna": 0.171,
+    "Karimganj": 0.31,
+    "Katiadi": 0.31,
+    "Kishoreganj Sadar": 0.31,
+    "Kuliar Char": 0.24,
+    "Mithamain": 0.129,
+    "Nikli": 0.24,
+    "Pakundia": 0.296,
+    "Tarail": 0.24
+   },
+   "Madaripur": {
+    "Kalkini": 0.496,
+    "Madaripur Sadar": 0.534,
+    "Rajoir": 0.87,
+    "Shib Char": 0.31
+   },
+   "Manikganj": {
+    "Daulatpur": 0.515,
+    "Ghior": 0.565,
+    "Harirampur": 0.665,
+    "Manikganj Sadar": 1.165,
+    "Saturia": 0.715,
+    "Shibalaya": 0.415,
+    "Singair": 0.965
+   },
+   "Munshiganj": {
+    "Gazaria": 0.752,
+    "Lohajang": 0.711,
+    "Munshiganj Sadar": 0.629,
+    "Serajdikhan": 0.588,
+    "Sreenagar": 0.588,
+    "Tongibari": 0.876
+   },
+   "Narayanganj": {
+    "Araihazar": 0.637,
+    "Bandar": 1.194,
+    "Narayanganj Sadar": 1.07,
+    "Rupganj": 0.575,
+    "Sonargaon": 0.884
+   },
+   "Narsingdi": {
+    "Belabo": 0.755,
+    "Manohardi": 0.493,
+    "Narsingdi Sadar": 0.842,
+    "Palash": 0.886,
+    "Roypura": 0.886,
+    "Shibpur": 0.711
+   },
+   "Rajbari": {
+    "Balia Kandi": 0.579,
+    "Goalandaghat": 0.492,
+    "Kalukhali": 0.318,
+    "Pangsha": 0.71,
+    "Rajbari Sadar": 0.971
+   },
+   "Shariatpur": {
+    "Bhedarganj": 0.814,
+    "Damudya": 0.814,
+    "Gosairhat": 0.814,
+    "Naria": 0.303,
+    "Shariatpur Sadar": 0.412,
+    "Zanjira": 0.558
+   },
+   "Tangail": {
+    "Basail": 0.437,
+    "Bhuapur": 0.162,
+    "Delduar": 0.398,
+    "Dhanbari": 0.456,
+    "Ghatail": 0.26,
+    "Gopalpur": 0.417,
+    "Kalihati": 0.398,
+    "Madhupur": 0.339,
+    "Mirzapur": 0.398,
+    "Nagarpur": 0.221,
+    "Sakhipur": 0.358,
+    "Tangail Sadar": 0.3
+   }
+  },
+  "Khulna": {
+   "Bagerhat": {
+    "Bagerhat Sadar": 0.197,
+    "Chitalmari": 0.089,
+    "Fakirhat": 0.187,
+    "Kachua": 0.187,
+    "Mollahat": 0.089,
+    "Mongla": 0.187,
+    "Morrelganj": 0.111,
+    "Rampal": 0.176,
+    "Sarankhola": 0.154
+   },
+   "Chuadanga": {
+    "Alamdanga": 0.539,
+    "Chuadanga Sadar": 0.601,
+    "Damurhuda": 0.632,
+    "Jiban Nagar": 0.539
+   },
+   "Jashore": {
+    "Abhaynagar": 0.272,
+    "Bagher Para": 0.25,
+    "Chaugachha": 0.272,
+    "Jhikargachha": 0.161,
+    "Keshabpur": 0.161,
+    "Kotwali": 0.205,
+    "Manirampur": 0.161,
+    "Sharsha": 0.205
+   },
+   "Jhenaidah": {
+    "Harinakunda": 0.438,
+    "Jhenaidah Sadar": 0.438,
+    "Kaliganj": 0.393,
+    "Kotchandpur": 0.324,
+    "Maheshpur": 0.483,
+    "Shailkupa": 0.234
+   },
+   "Khulna": {
+    "Batiaghata": 0.11,
+    "Dacope": 0.098,
+    "Daulatpur": 0.104,
+    "Dighalia": 0.068,
+    "Dumuria": 0.116,
+    "Khalishpur": 0.123,
+    "Khan Jahan Ali": 0.056,
+    "Khulna Sadar": 0.11,
+    "Koyra": 0.086,
+    "Paikgachha": 0.08,
+    "Phultala": 0.104,
+    "Rupsa": 0.116,
+    "Sonadanga": 0.08,
+    "Terokhada": 0.123
+   },
+   "Kushtia": {
+    "Bheramara": 0.244,
+    "Daulatpur": 0.196,
+    "Khoksa": 0.232,
+    "Kumarkhali": 0.22,
+    "Kushtia Sadar": 0.196,
+    "Mirpur": 0.184
+   },
+   "Magura": {
+    "Magura Sadar": 0.266,
+    "Mohammadpur": 0.095,
+    "Shalikha": 0.266,
+    "Sreepur": 0.129
+   },
+   "Meherpur": {
+    "Gangni": 0.663,
+    "Meherpur Sadar": 0.75,
+    "Mujib Nagar": 0.793
+   },
+   "Narail": {
+    "Kalia": 0.822,
+    "Lohagara": 0.537,
+    "Narail Sadar": 0.537
+   },
+   "Satkhira": {
+    "Assasuni": 0.418,
+    "Debhata": 0.315,
+    "Kalaroa": 0.336,
+    "Kaliganj": 0.336,
+    "Satkhira Sadar": 0.356,
+    "Shyamnagar": 0.253,
+    "Tala": 0.191
+   }
+  },
+  "Mymensingh": {
+   "Jamalpur": {
+    "Bakshiganj": 0.31,
+    "Dewanganj": 0.392,
+    "Islampur": 0.447,
+    "Jamalpur Sadar": 0.338,
+    "Madarganj": 0.585,
+    "Melandaha": 0.31,
+    "Sarishabari": 0.31
+   },
+   "Mymensingh": {
+    "Bhaluka": 0.225,
+    "Dhobaura": 0.418,
+    "Fulbaria": 0.418,
+    "Gaffargaon": 0.273,
+    "Gauripur": 0.176,
+    "Haluaghat": 0.491,
+    "Ishwarganj": 0.273,
+    "Muktagachha": 0.563,
+    "Mymensingh Sadar": 0.176,
+    "Nandail": 0.2,
+    "Phulpur": 0.346,
+    "Trishal": 0.563
+   },
+   "Netrokona": {
+    "Atpara": 0.177,
+    "Barhatta": 0.219,
+    "Durgapur": 0.241,
+    "Kalmakanda": 0.283,
+    "Kendua": 0.155,
+    "Khaliajuri": 0.219,
+    "Madan": 0.155,
+    "Mohanganj": 0.347,
+    "Netrokona Sadar": 0.177,
+    "Purbadhala": 0.241
+   },
+   "Sherpur": {
+    "Jhenaigati": 0.567,
+    "Nakla": 0.641,
+    "Nalitabari": 0.678,
+    "Sherpur Sadar": 0.604,
+    "Sreebardi": 0.678
+   }
+  },
+  "Rajshahi": {
+   "Bogura": {
+    "Adamdighi": 0.362,
+    "Bogra Sadar": 0.174,
+    "Dhunat": 0.287,
+    "Dhupchanchia": 0.137,
+    "Gabtali": 0.193,
+    "Kahaloo": 0.399,
+    "Nandigram": 0.193,
+    "Sariakandi": 0.193,
+    "Shajahanpur": 0.324,
+    "Sherpur": 0.23,
+    "Shibganj": 0.418,
+    "Sonatola": 0.287
+   },
+   "Chapai Nawabganj": {
+    "Bholahat": 0.461,
+    "Gomastapur": 0.498,
+    "Nachole": 0.348,
+    "Nawabganj Sadar": 0.311,
+    "Shibganj": 0.573
+   },
+   "Joypurhat": {
+    "Akkelpur": 0.697,
+    "Joypurhat Sadar": 0.453,
+    "Kalai": 1.087,
+    "Khetlal": 0.551,
+    "Panchbibi": 0.551
+   },
+   "Naogaon": {
+    "Atrai": 0.234,
+    "Badalgachhi": 0.306,
+    "Dhamoirhat": 0.249,
+    "Mahadebpur": 0.134,
+    "Manda": 0.249,
+    "Naogaon Sadar": 0.263,
+    "Niamatpur": 0.321,
+    "Patnitala": 0.292,
+    "Porsha": 0.306,
+    "Raninagar": 0.134,
+    "Sapahar": 0.278
+   },
+   "Natore": {
+    "Bagati Para": 0.275,
+    "Baraigram": 0.275,
+    "Gurudaspur": 0.341,
+    "Lalpur": 0.64,
+    "Natore Sadar": 0.275,
+    "Singra": 0.242
+   },
+   "Pabna": {
+    "Atgharia": 0.164,
+    "Bera": 0.196,
+    "Bhangura": 0.275,
+    "Chatmohar": 0.148,
+    "Faridpur": 0.339,
+    "Ishwardi": 0.307,
+    "Pabna Sadar": 0.164,
+    "Santhia": 0.371,
+    "Sujanagar": 0.228
+   },
+   "Rajshahi": {
+    "Bagha": 0.264,
+    "Baghmara": 0.227,
+    "Boalia": 0.239,
+    "Charghat": 0.202,
+    "Durgapur": 0.276,
+    "Godagari": 0.152,
+    "Matihar": 0.115,
+    "Mohanpur": 0.276,
+    "Paba": 0.14,
+    "Puthia": 0.251,
+    "Rajpara": 0.264,
+    "Shah Makhdum": 0.276,
+    "Tanore": 0.227
+   },
+   "Sirajganj": {
+    "Belkuchi": 0.154,
+    "Chauhali": 0.259,
+    "Kamarkhanda": 0.085,
+    "Kazipur": 0.189,
+    "Royganj": 0.247,
+    "Shahjadpur": 0.224,
+    "Sirajganj Sadar": 0.247,
+    "Tarash": 0.247,
+    "Ullah Para": 0.108
+   }
+  },
+  "Rangpur": {
+   "Dinajpur": {
+    "Biral": 0.254,
+    "Birampur": 0.106,
+    "Birganj": 0.14,
+    "Bochaganj": 0.197,
+    "Chirirbandar": 0.106,
+    "Dinajpur Sadar": 0.197,
+    "Fulbari": 0.231,
+    "Ghoraghat": 0.083,
+    "Hakimpur": 0.094,
+    "Kaharole": 0.185,
+    "Khansama": 0.151,
+    "Nawabganj": 0.163,
+    "Parbatipur": 0.242
+   },
+   "Gaibandha": {
+    "Fulchhari": 0.141,
+    "Gaibandha Sadar": 0.295,
+    "Gobindaganj": 0.198,
+    "Palashbari": 0.372,
+    "Sadullapur": 0.449,
+    "Saghatta": 0.411,
+    "Sundarganj": 0.141
+   },
+   "Kurigram": {
+    "Bhurungamari": 0.185,
+    "Char Rajibpur": 0.386,
+    "Chilmari": 0.52,
+    "Kurigram Sadar": 0.23,
+    "Nageshwari": 0.207,
+    "Phulbari": 0.453,
+    "Rajarhat": 0.23,
+    "Raumari": 0.453,
+    "Ulipur": 0.185
+   },
+   "Lalmonirhat": {
+    "Aditmari": 0.275,
+    "Hatibandha": 0.239,
+    "Kaliganj": 0.4,
+    "Lalmonirhat Sadar": 0.131,
+    "Patgram": 0.4
+   },
+   "Nilphamari": {
+    "Dimla": 0.243,
+    "Domar": 0.164,
+    "Jaldhaka": 0.37,
+    "Kishoreganj": 0.37,
+    "Nilphamari Sadar": 0.148,
+    "Saidpur": 0.291
+   },
+   "Panchagarh": {
+    "Atwari": 0.648,
+    "Boda": 0.506,
+    "Debiganj": 0.718,
+    "Panchagarh Sadar": 0.435,
+    "Tentulia": 0.683
+   },
+   "Rangpur": {
+    "Badarganj": 0.539,
+    "Gangachara": 0.466,
+    "Kaunia": 0.539,
+    "Mitha Pukur": 0.273,
+    "Pirgachha": 0.442,
+    "Pirganj": 0.418,
+    "Rangpur Sadar": 0.394,
+    "Taraganj": 0.2
+   },
+   "Thakurgaon": {
+    "Baliadangi": 0.288,
+    "Haripur": 0.261,
+    "Pirganj": 0.274,
+    "Ranisankail": 0.18,
+    "Thakurgaon Sadar": 0.301
+   }
+  },
+  "Sylhet": {
+   "Habiganj": {
+    "Ajmiriganj": 0.258,
+    "Bahubal": 0.117,
+    "Baniachong": 0.243,
+    "Chunarughat": 0.117,
+    "Habiganj Sadar": 0.286,
+    "Lakhai": 0.131,
+    "Madhabpur": 0.229,
+    "Nabiganj": 0.187
+   },
+   "Moulvibazar": {
+    "Barlekha": 0.254,
+    "Juri": 0.371,
+    "Kamalganj": 0.354,
+    "Kulaura": 0.238,
+    "Maulvi Bazar Sadar": 0.171,
+    "Rajnagar": 0.171,
+    "Sreemangal": 0.387
+   },
+   "Sunamganj": {
+    "Bishwambarpur": 0.261,
+    "Chhatak": 0.341,
+    "Dakshin Sunamganj": 0.213,
+    "Derai": 0.293,
+    "Dharampasha": 0.293,
+    "Dowarabazar": 0.341,
+    "Jagannathpur": 0.309,
+    "Jamalganj": 0.149,
+    "Sulla": 0.197,
+    "Sunamganj Sadar": 0.309,
+    "Tahirpur": 0.373
+   },
+   "Sylhet": {
+    "Balaganj": 0.423,
+    "Beani Bazar": 0.469,
+    "Bishwanath": 0.284,
+    "Companiganj": 0.492,
+    "Dakshin Surma": 0.377,
+    "Fenchuganj": 0.307,
+    "Golabganj": 0.377,
+    "Gowainghat": 0.284,
+    "Jaintiapur": 0.215,
+    "Kanaighat": 0.446,
+    "Sylhet Sadar": 0.377,
+    "Zakiganj": 0.354
+   }
+  }
+ }
+}
