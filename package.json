@@ -1,5 +1,5 @@
 {
-  "name": "bd-map",
+  "name": "@farhansadikgalib/bd-map",
   "version": "1.0.0",
   "description": "Interactive drill-down maps of Bangladesh for React, plus a geography and data API for Node: division to union, English and Bangla names, choropleths from JSON or an API, and server-side SVG rendering. Zero dependencies.",
   "keywords": [

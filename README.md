@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/farhansadikgalib/bd-map/main/screenshots/banner.svg" alt="bd-map — interactive, drill-down Bangladesh maps" width="100%">
 </p>
 
-[![npm](https://img.shields.io/npm/v/bd-map.svg)](https://www.npmjs.com/package/bd-map)
+[![npm](https://img.shields.io/npm/v/%40farhansadikgalib%2Fbd-map.svg)](https://www.npmjs.com/package/@farhansadikgalib/bd-map)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/farhansadikgalib/bd-map/blob/main/LICENSE)
 [![pub package](https://img.shields.io/pub/v/bd_map.svg?label=flutter)](https://pub.dev/packages/bd_map)
 
@@ -17,15 +17,15 @@ This is the JavaScript port of the [`bd_map` Flutter package](https://pub.dev/pa
 ## Installation
 
 ```sh
-npm install bd-map
+npm install @farhansadikgalib/bd-map
 ```
 
 ```ts
-import { BdGeo, BdMapData, renderSvg } from 'bd-map';       // Node / any framework
-import { BdMap, BdCountryMap } from 'bd-map/react';         // React components
+import { BdGeo, BdMapData, renderSvg } from '@farhansadikgalib/bd-map';       // Node / any framework
+import { BdMap, BdCountryMap } from '@farhansadikgalib/bd-map/react';         // React components
 ```
 
-React 17 or newer is an optional peer dependency, needed only for `bd-map/react`. ESM and CommonJS builds are both included.
+React 17 or newer is an optional peer dependency, needed only for `@farhansadikgalib/bd-map/react`. ESM and CommonJS builds are both included.
 
 ## Usage
 
@@ -141,13 +141,13 @@ const population = new BdMapData<number>(
 
 | File | Contains |
 | --- | --- |
-| `bd-map/assets/bd_data_full_country.json` | All 5,700+ regions in one tree. Start here. |
-| `bd-map/assets/bd_data_divisions.json` | 8 divisions |
-| `bd-map/assets/bd_data_districts.json` | 64 districts |
-| `bd-map/assets/bd_data_thanas.json` | 544 thanas and upazilas |
-| `bd-map/assets/bd_data_unions.json` | 5,160 unions and wards |
+| `@farhansadikgalib/bd-map/assets/bd_data_full_country.json` | All 5,700+ regions in one tree. Start here. |
+| `@farhansadikgalib/bd-map/assets/bd_data_divisions.json` | 8 divisions |
+| `@farhansadikgalib/bd-map/assets/bd_data_districts.json` | 64 districts |
+| `@farhansadikgalib/bd-map/assets/bd_data_thanas.json` | 544 thanas and upazilas |
+| `@farhansadikgalib/bd-map/assets/bd_data_unions.json` | 5,160 unions and wards |
 
-They resolve through the package's `exports`, so `import data from 'bd-map/assets/bd_data_districts.json'` works with bundlers, and Node can `readFileSync(require.resolve('bd-map/assets/bd_data_districts.json'))`.
+They resolve through the package's `exports`, so `import data from '@farhansadikgalib/bd-map/assets/bd_data_districts.json'` works with bundlers, and Node can `readFileSync(require.resolve('@farhansadikgalib/bd-map/assets/bd_data_districts.json'))`.
 
 <details>
 <summary>More data formats</summary>
@@ -200,7 +200,7 @@ const hit = BdGeo.regionAt(0.5, 0.5);               // deepest region at a norma
 
 ```ts
 import { writeFileSync } from 'node:fs';
-import { BdMapData, renderSvg } from 'bd-map';
+import { BdMapData, renderSvg } from '@farhansadikgalib/bd-map';
 
 const data = BdMapData.fromList(apiRows, { title: 'Sales', unit: ' BDT' });
 writeFileSync('sales.svg', renderSvg({ level: 'district', data, width: 800 }));
@@ -278,7 +278,7 @@ npm run example
 
 ## Bundle size
 
-The geometry for all 5,776 regions is compiled into the package (about 2.4 MB unminified, roughly 600 KB gzipped) so nothing is fetched at runtime. Both entry points share one chunk, so importing `bd-map` and `bd-map/react` together costs nothing extra.
+The geometry for all 5,776 regions is compiled into the package (about 2.4 MB unminified, roughly 600 KB gzipped) so nothing is fetched at runtime. Both entry points share one chunk, so importing `@farhansadikgalib/bd-map` and `@farhansadikgalib/bd-map/react` together costs nothing extra.
 
 ## Data sources
 

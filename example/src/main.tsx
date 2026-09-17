@@ -1,6 +1,6 @@
 import { StrictMode, useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
-import { BangladeshMap, BdArea, BdCountryMap, BdMap, BdMapData, BdRegion, renderSvg } from 'bd-map/react';
+import { BangladeshMap, BdArea, BdCountryMap, BdMap, BdMapData, BdRegion, renderSvg } from '@farhansadikgalib/bd-map/react';
 
 // A palette shared by the maps, like the Flutter example app's kMapPalette.
 const palette = ['#3F51B5', '#009688', '#FF9800', '#E91E63', '#4CAF50', '#9C27B0', '#00BCD4', '#FFC107', '#F44336', '#2196F3', '#8BC34A', '#FF5722', '#673AB7'];
