@@ -24,7 +24,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   <text x="${CX}" y="244" text-anchor="middle" font-family="${sans}" font-size="56" font-weight="700" fill="#111827" letter-spacing="-1.5">bd-map</text>
   <text x="${CX}" y="292" text-anchor="middle" font-family="${sans}" font-size="22" fill="#9ca3af">Flutter · React · Node</text>
   <text x="${CX}" y="336" text-anchor="middle" font-family="${sans}" font-size="21" fill="#6b7280">Division → District → Upazila → Union</text>
-  <text x="${CX}" y="396" text-anchor="middle" font-family="${sans}" font-size="26" fill="#4b5563">Interactive drill-down maps of Bangladesh</text>
+  <text x="${CX}" y="378" text-anchor="middle" font-family="${sans}" font-size="26" fill="#4b5563">Interactive drill-down maps of Bangladesh</text>
   <g transform="translate(${MAP_X} ${MAP_Y})" stroke="#ffffff" stroke-width="2" stroke-linejoin="round">
     ${map}
   </g>
