@@ -58,7 +58,8 @@
     "prepublishOnly": "npm run build && npm test",
     "example": "vite example --open",
     "example:build": "vite build example",
-    "banner": "node scripts/make-banner.mjs"
+    "banner": "node scripts/make-banner.mjs",
+    "social": "node scripts/make-social.mjs"
   },
   "peerDependencies": {
     "react": ">=17",
