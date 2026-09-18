@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#ffffff"/>
-  <text x="330" y="238" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Roboto, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#111827" letter-spacing="-2">bd-map</text>
+  <text x="330" y="238" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Roboto, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#111827" letter-spacing="-2">BD Map</text>
   <text x="330" y="292" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Roboto, Helvetica, sans-serif" font-size="22" fill="#9ca3af">Flutter · React · Node</text>
   <text x="330" y="336" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Roboto, Helvetica, sans-serif" font-size="21" fill="#6b7280">Division → District → Upazila → Union</text>
   <text x="330" y="396" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Inter, Roboto, Helvetica, sans-serif" font-size="26" fill="#4b5563">Interactive drill-down maps of Bangladesh</text>
