@@ -7,6 +7,8 @@ import { BD_COLORFUL_PALETTE, BD_MAP_ASPECT_RATIO, BdGeo } from '../dist/index.j
 const W = 1200, H = 630;
 const MAP_H = 560, MAP_W = MAP_H * BD_MAP_ASPECT_RATIO;
 const MAP_X = W - MAP_W - 90, MAP_Y = (H - MAP_H) / 2;
+// All three text lines share one center: the middle of the tagline.
+const CX = 330;
 const sans = "-apple-system, 'Segoe UI', Inter, Roboto, Helvetica, sans-serif";
 
 const map = BdGeo.divisions
@@ -19,9 +21,9 @@ const map = BdGeo.divisions
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <rect width="${W}" height="${H}" fill="#ffffff"/>
-  <text x="90" y="290" font-family="${sans}" font-size="72" font-weight="700" fill="#111827" letter-spacing="-2">bd-map</text>
-  <text x="90" y="340" font-family="${sans}" font-size="26" fill="#4b5563">Interactive drill-down maps of Bangladesh</text>
-  <text x="90" y="384" font-family="${sans}" font-size="22" fill="#9ca3af">React · Node · Flutter</text>
+  <text x="${CX}" y="290" text-anchor="middle" font-family="${sans}" font-size="72" font-weight="700" fill="#111827" letter-spacing="-2">bd-map</text>
+  <text x="${CX}" y="340" text-anchor="middle" font-family="${sans}" font-size="26" fill="#4b5563">Interactive drill-down maps of Bangladesh</text>
+  <text x="${CX}" y="384" text-anchor="middle" font-family="${sans}" font-size="22" fill="#9ca3af">React · Node · Flutter</text>
   <g transform="translate(${MAP_X} ${MAP_Y})" stroke="#ffffff" stroke-width="2" stroke-linejoin="round">
     ${map}
   </g>
