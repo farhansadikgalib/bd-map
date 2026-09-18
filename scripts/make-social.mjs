@@ -21,7 +21,7 @@ const map = BdGeo.divisions
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <rect width="${W}" height="${H}" fill="#ffffff"/>
-  <text x="${CX}" y="238" text-anchor="middle" font-family="${sans}" font-size="72" font-weight="700" fill="#111827" letter-spacing="-2">BD Map</text>
+  <text x="${CX}" y="238" text-anchor="middle" font-family="${sans}" font-size="72" font-weight="700" fill="#111827" letter-spacing="-2">bd-map</text>
   <text x="${CX}" y="292" text-anchor="middle" font-family="${sans}" font-size="22" fill="#9ca3af">Flutter · React · Node</text>
   <text x="${CX}" y="336" text-anchor="middle" font-family="${sans}" font-size="21" fill="#6b7280">Division → District → Upazila → Union</text>
   <text x="${CX}" y="396" text-anchor="middle" font-family="${sans}" font-size="26" fill="#4b5563">Interactive drill-down maps of Bangladesh</text>
