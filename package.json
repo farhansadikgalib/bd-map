@@ -57,7 +57,8 @@
     "lint": "tsc --noEmit && vitest run",
     "prepublishOnly": "npm run build && npm test",
     "example": "vite example --open",
-    "example:build": "vite build example"
+    "example:build": "vite build example",
+    "banner": "node scripts/make-banner.mjs"
   },
   "peerDependencies": {
     "react": ">=17",
